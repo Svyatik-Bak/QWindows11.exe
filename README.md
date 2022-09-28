@@ -17,9 +17,13 @@ This is a fun and cool virus
 ![Screenshot_2022-09-40-28-12-56-31-039](https://user-images.githubusercontent.com/89962566/192761970-2f620c7e-4b9d-42a7-b1d5-b747220eee60.png)
 
 ![Screenshot_2022-09-40-28-12-56-55-882](https://user-images.githubusercontent.com/89962566/192762044-48e733aa-e4bf-42cf-b00c-34f1efa9c54a.png)
+
 if you press yes
+
 ![Screenshot_2022-09-40-28-12-57-09-452](https://user-images.githubusercontent.com/89962566/192762083-e3bd8a0c-7d41-44f8-af65-27a8991c136b.png)
+
 if you press "F2" on the keyboard
+
 ![Screenshot_2022-09-40-28-12-57-52-579](https://user-images.githubusercontent.com/89962566/192762202-e99af798-6373-4037-8291-a8ef53e76e7d.png)
 # Wallpaper
 
