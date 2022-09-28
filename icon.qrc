@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>favicon.ico</file>
+        <file>shell32_161.png</file>
+    </qresource>
+</RCC>
