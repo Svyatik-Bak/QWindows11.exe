@@ -30,9 +30,9 @@ if you press "F2" on the keyboard
 ![windows11isshit](https://user-images.githubusercontent.com/89962566/192762656-8f1e7377-b3f2-43b9-a9d2-19a9a4729376.png)
 
 # Used
-| Qt      | Inno Setup | Compiler  |
-| ------- | -----------| --------- |
-| 6.3.1.\* | 6.2.1\*   | MinGW 64\*|
+| Qt     | Inno Setup | Compiler |
+| -------| -----------| ---------|
+| 6.3.1\ | 6.2.1\     | MinGW 64\|
 
 
 
